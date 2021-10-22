@@ -38,16 +38,6 @@
                ReferencedContainer = "container:ImageUploader.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4B0362832721EF2D00FF3727"
-               BuildableName = "ImageUploaderUITests.xctest"
-               BlueprintName = "ImageUploaderUITests"
-               ReferencedContainer = "container:ImageUploader.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
