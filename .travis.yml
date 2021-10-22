@@ -3,4 +3,4 @@ language: swift
 os: osx
 xcode_project: ImageUploader.xcodeproj
 xcode_scheme: ImageUploader
-xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone 8
+xcode_destination: platform=iOS Simulator,OS=14.5,name=iPhone 8
